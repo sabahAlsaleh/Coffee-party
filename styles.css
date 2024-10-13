@@ -1,0 +1,39 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* Optional: Set a light background color for the body */
+}
+
+header {
+    background: url('images/OIP8.jpeg') no-repeat center center fixed;
+    background-size: cover; 
+    color: #b3adad;
+    padding: 10px 0;
+    text-align: center;
+}
+.bg-brown {
+    background-color: #493c33; 
+}
+
+
+.card {
+    width: 100%; 
+    max-width: 300px; 
+}
+
+.card-img-top {
+    width: 100%; 
+    height: 200px;
+    object-fit: cover; 
+}
+
+/* image in about oss */
+.center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
